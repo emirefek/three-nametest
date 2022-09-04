@@ -1,6 +1,6 @@
-# WebGL demo, emirefek name
+# WebGL/Three.JS demo, emirefek name
 
-preview URL: ! TO BE ADDED LATER
+preview URL: https://three-nametest.app.emirefek.me/
 
 ## Setup
 

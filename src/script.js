@@ -1,9 +1,7 @@
 import "./style.css";
 import * as THREE from "three";
 import { OrbitControls } from "three/examples/jsm/controls/OrbitControls";
-import { Material, MeshLambertMaterial } from "three";
 import GUI from "lil-gui";
-import { generateUUID } from "three/src/math/mathutils";
 import { FontLoader } from "three/examples/jsm/loaders/FontLoader";
 import { TextGeometry } from "three/examples/jsm/geometries/TextGeometry";
 
